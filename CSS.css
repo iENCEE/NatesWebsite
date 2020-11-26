@@ -1,0 +1,256 @@
+#title{
+	background-color:white;
+	color:red;
+	margin:0;
+}
+
+#Form {
+    position:center;
+    text-align:center;
+    font-size:20px;
+
+}
+
+#Backgroundimg {
+	background-image:url('Clouds Background.jpg');
+}
+
+#Backgroundimg2	{
+	background-image:url('Twitch.png');
+	background-size: 100% 100%;
+}
+
+#Backgroundimg3 {
+	background-image:url('LBJ.jpg');
+	background-size: 100% 100%;
+}
+
+#Backgroundimg4	{
+	background-image:url('Desk.jpg');
+	background-size: 100% 100%;
+}
+
+#Backgroundimg5 {
+	background-image:url('ContactMe.jpg');
+	background-size: 100% 100%;
+}
+
+#Backgroundimgtwitch{
+	background-image:url('games.jpg');
+	background-size: 100% 100%;
+}
+
+#
+
+body{
+    position: absolute;
+    left:17%;
+    justify-content: center;
+    align-items: center;
+    font-family: 'BRITANNIC', sans-serif;
+    font-weight: bold;
+	margin: 20px;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+a{
+    background-color:Red;
+    position: relative;
+    display: inline-block;
+    padding: 20px 20px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    overflow: hidden;
+    margin-right: 20px;
+}
+
+#aindex{
+    left:16%;
+    justify-content: center;
+    align-items: center;
+    font-family: 'BRITANNIC', sans-serif;
+    font-weight: bold;
+	margin: 20px;
+    background-repeat: no-repeat;
+	background-size:100% 100%;
+	margin: 20px;
+}
+
+#atwitch{
+	background-color: White;
+	color:Black;
+    left:16%;
+    justify-content: center;
+    align-items: center;
+    font-family: 'BRITANNIC', sans-serif;
+    font-weight: bold;
+	margin: 20px;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+#aresume{
+	background-color: Black;
+	color:white;
+    left:16%;
+    justify-content: center;
+    align-items: center;
+    font-family: 'BRITANNIC', sans-serif;
+    font-weight: bold;
+	margin: 20px;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+#bodyindex{
+	position: absolute;
+    left:20%;
+    justify-content: center;
+    align-items: center;
+    font-family: 'BRITANNIC', sans-serif;
+    font-weight: bold;
+	margin: 20px;
+	margin-top:250px;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+
+#index{
+	background-color: white;
+	background-repeat: no-repeat;
+	font-size:13px;
+	border:5px solid black;
+	text-align:center;
+	margin-top:50px;
+	margin-right:200px;
+	margin-left:200px;
+}
+
+#resume{
+	background-color: white;
+	background-repeat: no-repeat;
+	font-size:13px;
+	border:5px solid black;
+	text-align:center;
+	margin-top:50px;
+	margin-right:200px;
+	margin-left:200px;
+}
+
+#twitch{
+	background-color: white;
+	background-repeat: no-repeat;
+	font-size:13px;
+	border:5px solid black;
+	text-align:center;
+	margin-top:50px;
+	margin-right:200px;
+	margin-left:200px;
+}
+
+#basketball{
+	background-color: white;
+	background-repeat: no-repeat;
+	font-size:13px;
+	border:5px solid black;
+	text-align:center;
+	margin-top:50px;
+	margin-right:200px;
+	margin-left:200px;
+}
+
+
+#indexbutton{
+	color:black;
+	background-color:whites;
+	padding: 15px 32px;
+	text-align: center;
+	border-width: 5px;
+	margin-left: 46%;
+	margin-top: 12%;
+}
+
+#resumebutton{
+	color:black;
+	background-color:whites;
+	padding: 15px 32px;
+	text-align: center;
+	border-width: 5px;
+	margin-left: 44%;
+	margin-top: 12%;
+}
+
+#topbutton{
+	color: white;
+	background-color: black;
+	border-width: 1px;
+    position: center;
+    display: inline-block;
+    padding: 5px 5px;
+    letter-spacing: 2px;
+    overflow: hidden;
+    margin-right: 0px;
+	text-align:center;
+	font-size:large;
+}
+
+#basketballbutton{
+	color:black;
+	background-color:whites;
+	padding: 15px 32px;
+	text-align: center;
+	border-width: 5px;
+	margin-left: 44%;
+	margin-top: 12%;
+}
+
+#twitchbutton{
+	color:black;
+	background-color:whites;
+	padding: 15px 32px;
+	text-align: center;
+	border-width: 5px;
+	margin-left: 44%;
+	margin-top: 12%;
+}
+
+#Twitchlink{
+	color: white;
+	background-color:purple;
+	padding: 15px 20px;
+	text-align: center;
+}
+
+#Youtubelink{
+	color: white;
+	font-family: Arial black; 
+	background-color:red;
+	padding: 15px 20px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+#bballlink{
+	color: white;
+	font-family: Arial black; 
+	background-color:blue;
+	padding: 15px 20px;
+	text-align: center;
+	margin-top: 5px;
+}
+
+td{
+	text-align: center;
+}
+
+
+#form {
+    background-color: #000;
+    padding: 5px;
+	margin-top:30px;
+	margin-left:30%;
+	margin-right:30%;
+}
